@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cvu6F4q4pT+hFi705PvsABd86LP5yWwdyqYQS9NXxiPKURH70ydmPgmDZjVCwO0z0IzYhc3RLReTVgCmcDDHFw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ghis9\\OneDrive\\Desktop\\Breakthru_Final\\BreakthruEngine\\BreakthruEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghis9\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ghis9\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\ghis9\\OneDrive\\Desktop\\Breakthru_Final\\ChessBoardModel\\BreakthruBoardModel.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\ghis9\\OneDrive\\Desktop\\Breakthru_Final\\ChessBoardModel\\BreakthruBoardModel.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
